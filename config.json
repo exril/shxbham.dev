@@ -1,0 +1,50 @@
+{
+  "ascii": ["Hello, My Name is Shubham\n I go by JIN online, I am a Full Stack Dev with 4+ Years of experience\n My Main Website is shxbham.dev"],
+  "title": "JIN",
+  "username": "visitor",
+  "hostname": "JIN",
+  "password": "696969",
+  "repoLink": "https://github.com/extractings/shxbham.dev",
+  "social": {
+    "email": "wilfred.shubham@gmail.com",
+    "github": "extractings",
+    "linkedin": "shubham_geek",
+    "website": "https://shxbham.dev/"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to My Web.",
+  "projects": [
+    [
+      "Gym-Web App",
+      "Vue.js reactivity in Go.",
+      "https://github.com/extractings/gym-webapp"
+    ],
+    [
+      "Aware",
+      "A Multipurpose bot coded in Python",
+      "https://github.com/extractings/Aware-UD"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
